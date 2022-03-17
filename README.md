@@ -2,7 +2,7 @@
 
 This project intends to research the tweets that are referring to specific Vulnerability entries
 of National Vulnerability Database's official registrations
-(NVD), investigating through statistical methods the interest of users for specific companies,
+(NVD), investigating through statistical and NLP methods the interest of users for specific companies,
 products and Software Vulnerability Categories.
 
 The data that we analyze comes from NVD Data Feeds and Twitter API.
